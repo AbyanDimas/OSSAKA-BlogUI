@@ -1,0 +1,57 @@
+{
+  "main": [
+    {
+      "name": "Beranda",
+      "url": "/"
+    },
+    {
+      "name": "Tentang",
+      "url": "/about"
+    },
+    {
+      "name": "Berita",
+      "url": "/berita"
+    },
+    {
+      "name": "Kontak",
+      "url": "/contact"
+    },
+    {
+      "name": "Lainnya",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "Galeri",
+          "url": "/categories"
+        },
+        {
+          "name": "Kotak Saran",
+          "url": "/kotak-saran"
+        },
+        {
+          "name": "Profil",
+          "url": "/profil"
+        }
+      ]
+    }
+  ],
+  "footer": [
+    {
+      "name": "Beranda",
+      "url": "/"
+    },
+    {
+      "name": "Tentang",
+      "url": "/about"
+    },
+    {
+      "name": "Kontak",
+      "url": "/contact"
+    },
+    {
+      "name": "Privacy Policy",
+      "url": "#"
+    }
+  ]
+}
